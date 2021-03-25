@@ -1,2 +1,3 @@
 # ITSA-Dates
-Vigtige datoer for ITSA
+Nedenfor er listet vigtige datoer i forbindelse med ITSA20 holdet.
+
