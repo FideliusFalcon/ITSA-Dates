@@ -13,9 +13,10 @@ Nedenfor er listet vigtige datoer i forbindelse med ITSA20 holdet.
 |24 september|Praktik - Halvvejsmøde||[Canvas](https://ucn.instructure.com/courses/27585)|
 |29 oktober|Praktikprojekt aflevering||[Canvas](https://ucn.instructure.com/courses/27585)|
 |4-5 november|Praktik eksamen||[Canvas](https://ucn.instructure.com/courses/27585)
-|3 november|Bachelorprojekt problemformulering sendes til pr@ucn.dk||[Canvas](https://ucn.instructure.com/courses/27585)|
+|3 november|Bachelorprojekt problemformulering sendes til pr@ucn.dk|Senest 00|[Canvas](https://ucn.instructure.com/courses/27585)|
 |17 januar 2022|Bachelorprojekt aflevering||[Canvas](https://ucn.instructure.com/courses/27585)|
-|24-25 januar 2020|Forsvaring af bachelorprojekt||[Canvas](https://ucn.instructure.com/courses/27585)|
+|24-25 januar 2022|Forsvaring af bachelorprojekt||[Canvas](https://ucn.instructure.com/courses/27585)|
+|28 januar|Afslutningsceremoni||https://ucn.instructure.com/courses/27585|
 
 
 # Assets
